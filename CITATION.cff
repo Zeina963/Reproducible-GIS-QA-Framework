@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Reproducible GIS Quality Assurance Framework - code and data"
+version: "1.1.0"
+date-released: "2026-10-31"
+authors:
+  - family-names: "Abu Romman"
+    given-names: "Zeinab"
+    orcid: "https://orcid.org/0000-0001-6078-6525"
+    affiliation: "Canada Chinook for Trading and Construction, Calgary, AB, Canada"
+  - family-names: "Weshah"
+    given-names: "Auws"
+    orcid: "https://orcid.org/0009-0006-5806-8456"
+    affiliation: "Canada Chinook for Trading and Construction, Calgary, AB, Canada"
+repository-code: "https://github.com/Zeina963/Reproducible-GIS-QA-Framework"
+keywords:
+  - GIS errors
+  - spatial data quality
+  - coordinate reference systems
+  - reproducibility
+  - sensitivity analysis
+  - Sobol indices
+  - geodatabase
+preferred-citation:
+  type: article
+  title: "Toward a Reproducible GIS Quality Assurance Framework: Quantifying Error Mechanisms Across the Spatial Workflow Through Ten Illustrative Cases"
+  authors:
+    - family-names: "Abu Romman"
+      given-names: "Zeinab"
+      orcid: "https://orcid.org/0000-0001-6078-6525"
+    - family-names: "Weshah"
+      given-names: "Auws"
+      orcid: "https://orcid.org/0009-0006-5806-8456"
+  journal: "Geomatics"
+  year: 2026
+  notes: "Accepted. Manuscript ID: geomatics-4550629."
