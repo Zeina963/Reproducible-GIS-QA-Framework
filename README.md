@@ -1,7 +1,9 @@
 ﻿# Reproducible GIS Quality Assurance Framework
 
-[![Article: Geomatics](https://img.shields.io/badge/Journal-Geomatics%20(MDPI)-blue)](https://www.mdpi.com/journal/geomatics)
-[![Status: Accepted](https://img.shields.io/badge/Status-Accepted%20(Oct%202026)-success)](https://www.mdpi.com/journal/geomatics)
+[![Article: Geomatics](https://img.shields.io/badge/Journal-Geomatics%20(MDPI)-blue)](https://www.mdpi.com/2673-7418/6/6/137)
+[![Article DOI](https://img.shields.io/badge/DOI-10.3390%2Fgeomatics6060137-007EC6.svg)](https://doi.org/10.3390/geomatics6060137)
+[![Zenodo Archive](https://zenodo.org/badge/DOI/10.5281/zenodo.23846408.svg)](https://doi.org/10.5281/zenodo.23846408)
+[![Status: Published](https://img.shields.io/badge/Status-Published%20(Nov%202026)-success)](https://doi.org/10.3390/geomatics6060137)
 [![License: CC BY 4.0 & MIT](https://img.shields.io/badge/License-CC%20BY%204.0%20%7C%20MIT-green.svg)](LICENSE)
 [![Python: 3.10 | 3.12](https://img.shields.io/badge/Python-3.10%20%7C%203.12-informational)](requirements.txt)
 
@@ -10,14 +12,15 @@ This repository provides open code, geodatabases, and supplementary materials su
 > **Toward a Reproducible GIS Quality Assurance Framework: Quantifying Error Mechanisms Across the Spatial Workflow Through Ten Illustrative Cases**  
 > **Authors:** Zeinab Abu Romman and Auws Weshah  
 > **Affiliation:** Canada Chinook for Trading and Construction, Calgary, AB, Canada  
-> **Journal:** *Geomatics* (MDPI), 2026  
-> **Status:** Accepted (12 October 2026) | **Manuscript ID:** `geomatics-4550629`  
-> **Academic Editor:** Enrico Corrado Borgogno Mondino  
+> **Journal:** *Geomatics* (MDPI), 2026, 6(6), 137  
+> **DOI:** [10.3390/geomatics6060137](https://doi.org/10.3390/geomatics6060137)  
+> **Published:** 3 November 2026  
+> **Open Access Article:** [MDPI Article Page](https://www.mdpi.com/2673-7418/6/6/137) | [Download PDF](https://www.mdpi.com/2673-7418/6/6/137/pdf)  
 > **Corresponding Author:** Zeinab Abu Romman ([abu.romman.z@canadachinook.ca](mailto:abu.romman.z@canadachinook.ca))  
 
 > [!NOTE]
-> **Open Access & Publication Status:**  
-> This paper is accepted for publication in *Geomatics* (MDPI). This public repository serves as the official open-access code and data archive required prior to publication. The final published Version of Record (PDF) and permanent DOI will be linked here immediately upon final production release by the publisher.
+> **Open Access Publication:**  
+> This article is published Open Access in *Geomatics* (MDPI), Volume 6, Issue 6, Article 137, under the terms of the **Creative Commons Attribution (CC BY 4.0)** license. The official Version of Record is permanently accessible at: [https://doi.org/10.3390/geomatics6060137](https://doi.org/10.3390/geomatics6060137).
 
 ---
 
@@ -188,7 +191,11 @@ If you use this framework, code, or datasets in your research or teaching, pleas
   title     = {Toward a Reproducible {GIS} Quality Assurance Framework: Quantifying Error Mechanisms Across the Spatial Workflow Through Ten Illustrative Cases},
   journal   = {Geomatics},
   year      = {2026},
-  note      = {Accepted: 12 October 2026. Manuscript ID: geomatics-4550629. DOI will be updated upon final publication.}
+  volume    = {6},
+  number    = {6},
+  pages     = {137},
+  doi       = {10.3390/geomatics6060137},
+  url       = {https://doi.org/10.3390/geomatics6060137}
 }
 ```
 
@@ -201,7 +208,9 @@ See [CITATION.cff](CITATION.cff) for complete citation metadata.
   title     = {Reproducible {GIS} Quality Assurance Framework - Code and Data},
   version   = {1.1.0},
   year      = {2026},
+  doi       = {10.5281/zenodo.23846408},
   url       = {https://github.com/Zeina963/Reproducible-GIS-QA-Framework}
+  
 }
 ```
 
